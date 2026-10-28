@@ -1,4 +1,4 @@
-# Greensworks — Design. Build. Simplify.
+# Greensworks - Design. Build. Simplify.
 
 Thoughtful interfaces. Useful websites. Less repetitive work.
 
